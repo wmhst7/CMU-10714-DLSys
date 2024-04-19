@@ -1,1 +1,37 @@
 .DS_Store
+
+# Python
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+*.ipynb_checkpoints
+
+# Visual Studio Code
+*.vscode
+
+# PyCharm
+*.idea
+
+# Pytest
+*.pytest_cache
+
+# Virtualenv
+*.venv
+
+# C++
+*.out
+*.o
+*.exe
+*.obj
+
+# build
+*build/
+
+# data
+*data/
+
+*__pycache__/
+
+
+
