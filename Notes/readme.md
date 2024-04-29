@@ -914,3 +914,19 @@ Naive 就是很简单
 优化1
 
 ![Untitled](imgs/Untitled%2030.png)
+
+## HW4
+
+Backend through python
+
+需要修改一些接口，需要注意不要使用array_api没有的接口。
+
+CNN
+
+LSTM
+
+略过
+
+## HW4_extra
+
+主要是实现Transformer
