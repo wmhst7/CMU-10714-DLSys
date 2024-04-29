@@ -1,4 +1,4 @@
-# CMU 10-714:Deep Learning Systems 23 Autumn
+# CMU 10-714:Deep Learning Systems Learning Notes and Assignments
 
 ## Course Link
 https://dlsyscourse.org/lectures/ 
@@ -11,4 +11,4 @@ The goal of this course is to provide students an understanding and overview of 
 
 ## What included?
 
-This repo include my implementation of the assignments of the course. The assignments are implemented in Python and C++ and CUDA. 
+This repo include my implementation of the assignments of the course. The assignments are implemented in Python and C++ and CUDA. It is to record my learning process.
